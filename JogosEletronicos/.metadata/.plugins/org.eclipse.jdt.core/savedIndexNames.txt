@@ -1,0 +1,2 @@
+INDEX VERSION 1.134+C:\Users\Pichau\Desktop\trabalhos IFSP - 2025\1° semestre\Desenvolvimento Web\Jogos_Eletronicos\JogosEletronicos\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
